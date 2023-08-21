@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem 0;
+  border-top: 1px solid var(--gray-400);
+  margin-top: 2rem;
+}
+
+.container h3 {
+  margin-top: 1rem;
+}
